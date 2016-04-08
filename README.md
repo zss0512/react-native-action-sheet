@@ -3,7 +3,7 @@ A pure js ActionSheet like ios ActionSheet, support ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-action-sheet --save
+npm install @zss0512/react-native-action-sheet --save
 ```
 
 ## Usage
